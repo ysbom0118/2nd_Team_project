@@ -61,9 +61,10 @@
 ---
 
 ## 💻 실행 방법
-1.  `data/bus/` 폴더 내에 필요한 데이터셋(`.csv`)을 업로드합니다.
-2.  Jupyter Notebook을 통해 `진짜최종_jeju_bus_teamE1i4.ipynb` 파일을 실행합니다.
-3.  데이터 전처리부터 모델 학습, 예측 파일 생성까지의 과정을 확인하실 수 있습니다.
+1.  https://dacon.io/competitions/official/229255/mysubmission 사이트에서 데이터를 다운합니다.
+2.  `data/bus/` 폴더 내에 필요한 데이터셋(`.csv`)을 업로드합니다.
+3.  Jupyter Notebook을 통해 `jeju_bus_teamE1i4.ipynb` 파일을 실행합니다.
+4.  데이터 전처리부터 모델 학습, 예측 파일 생성까지의 과정을 확인하실 수 있습니다.
 
 ---
 **Team 제주 버스 탐험대 (Team E1i4)**
